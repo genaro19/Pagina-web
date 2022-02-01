@@ -14,7 +14,7 @@ var estudiantes = [
     {
         apellidop: "Vasquez",
         apellidom: "Ramos",
-        nombre: "Carlos",
+        nombre: "CarlosOmar",
         edad: 22,
         fechanacimiento: {
             año: 2000,

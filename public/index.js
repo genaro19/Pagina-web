@@ -14,7 +14,7 @@ var estudiantes = [
     {
         apellidop: "Vasquez",
         apellidom: "Ramos",
-        nombre: "CarlosOmar",
+        nombre: "Carlos Omar",
         edad: 22,
         fechanacimiento: {
             año: 2000,
@@ -39,4 +39,4 @@ for (var i = 0; i <estudiantes.length; i++) {
     celcarrera.innerText = estudiantes[i].carrera
 
     table.append(templ);
-}
+} 

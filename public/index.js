@@ -39,4 +39,4 @@ for (var i = 0; i <estudiantes.length; i++) {
     celcarrera.innerText = estudiantes[i].carrera
 
     table.append(templ);
-} 
+}
